@@ -1,0 +1,19 @@
+.list{
+    list-style-type: none;
+    width: 400px;
+    background-color: rgba(207, 204, 204, 0.719);
+}
+.content{
+    padding: 0px 20px 20px 20px;
+}
+.title{
+    font-size: 20px;
+    text-align: center;
+}
+.address{
+    opacity: 0.7;
+}
+.btn{
+    margin:0 20px;
+    padding: 8px 16px;
+}
